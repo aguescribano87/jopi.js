@@ -1,6 +1,6 @@
 {
   "name": "@oneloop/jopijs",
-  "version": "1.5.357",
+  "version": "1.5.358",
   "main": "lib/index.js",
   "module": "src/index.js",
   "files": [
@@ -29,7 +29,7 @@
     "@oneloop/label": "^1.2.285",
     "@oneloop/list": "^1.2.355",
     "@oneloop/loader": "^1.2.326",
-    "@oneloop/modal": "^1.2.373",
+    "@oneloop/modal": "^1.2.374",
     "@oneloop/multirangecalendar": "^1.0.11",
     "@oneloop/paginator": "^1.0.163",
     "@oneloop/radio": "^1.2.309",
