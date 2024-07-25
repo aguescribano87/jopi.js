@@ -1,6 +1,6 @@
 {
   "name": "@oneloop/jopijs",
-  "version": "1.5.361",
+  "version": "1.5.362",
   "main": "lib/index.js",
   "module": "src/index.js",
   "files": [
@@ -40,7 +40,7 @@
     "@oneloop/tags": "^1.0.67",
     "@oneloop/text": "^1.2.286",
     "@oneloop/textarea": "^1.0.246",
-    "@oneloop/toast": "^1.0.91",
+    "@oneloop/toast": "^1.0.92",
     "@oneloop/tooltip": "^1.0.125",
     "@oneloop/wrapped": "^1.0.82",
     "styled-components": "^5.3.5"
